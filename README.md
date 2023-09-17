@@ -1,6 +1,8 @@
 # JS-test-06-TextReader
 Hostedlink :
  https://ganeshdhaygude.github.io/JS-test-06-TextReader/
+
+ 
  HTML :
  In the html code we have make a structure of our webpage by using different tags and 
  elements.
